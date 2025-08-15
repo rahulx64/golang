@@ -1,10 +1,213 @@
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:rahulx64/golang.git
-git push -u origin main
-
 
 -------------->
 go is memory safe and statically typed and garbage collection 
+
+
+
+label_important	GATE CSE 2026 Test Series Schedule	
+description	GATE CSE 2026 Test Series Schedule	
+label_important	GATE CS 2026 Weekly Quizzes	
+description	GATE CS 2026 Weekly Quizzes	
+label_important	Discrete Mathematics Weekly Quizzes	
+description	Discrete Mathematics | Weekly Quiz | Proof Techniques	
+description	Discrete Mathematics | Weekly Quiz 1 | Propositional Logic	
+description	Discrete Mathematics | Weekly Quiz 2 | Propositional Logic	
+description	Discrete Mathematics | Weekly Quiz 3 | Propositional Logic	
+description	Discrete Mathematics | Weekly Quiz 4 | Propositional Logic	
+description	Discrete Mathematics | Weekly Quiz 5 | Propositional Logic	
+description	Discrete Mathematics | Weekly Quiz 1 | First Order Logic	
+description	Discrete Mathematics | Weekly Quiz 2 | First Order Logic	
+description	Discrete Mathematics | Combinatorics | Weekly Quiz 1	
+live_tv	Combinatorics - Weekly Quiz 1 - Detailed Video Solutions	
+description	Discrete Mathematics | Combinatorics | Weekly Quiz 2	
+description	Discrete Mathematics | Weekly Quiz 1 | Set theory	
+description	Discrete Mathematics | Weekly Quiz 2 | Set theory	
+description	Discrete Mathematics | Weekly Quiz 1 | Functions	
+description	Discrete Mathematics | Weekly Quiz 1 | Relations	
+description	Discrete Mathematics | Weekly Quiz 2 | Relation, Lattice & Poset	
+description	Discrete Mathematics | Combinatorics | Weekly Quiz 3	
+description	Discrete Mathematics | Combinatorics | Weekly Quiz 4	
+label_important	Engineering Mathematics Weekly Quizzes	
+description	Engineering Mathematics | Weekly Quiz 1 | Linear Algebra	
+description	Engineering Mathematics | Weekly Quiz 2 | Linear Algebra	
+description	Engineering Mathematics | Weekly Quiz 3 | Linear Algebra	
+description	Engineering Mathematics | Linear Algebra | Weekly Quiz 4	
+description	Engineering Mathematics | Conditional Probability | Weekly Quiz 1	
+description	Engineering Mathematics | Probability Distributions | Weekly Quiz 2	
+description	Engineering Mathematics | Linear Algebra | Weekly Quiz 5	
+description	Engineering Mathematics | Linear Algebra | Rank, System of equation	
+description	Engineering Mathematics | Calculus | Weekly Quiz 1	
+description	Engineering Mathematics | Calculus | Weekly Quiz 2	
+description	Engineering Mathematics | Calculus | Weekly Quiz 3	
+label_important	Digital Logic Weekly Quizzes	
+description	Digital Logic | Combinational Circuits | Weekly Quiz 6	
+description	Digital Logic | Boolean Algebra | Weekly Quiz 1	
+description	Digital Logic | Boolean Algebra | Weekly Quiz 2	
+description	Digital Logic | Boolean Algebra | Weekly Quiz 3	
+description	Digital Logic | Boolean Algebra | Weekly Quiz 4	
+description	Digital Logic | Boolean Algebra | Weekly Quiz 5	
+description	Digital Logic | Boolean Algebra | Weekly Quiz 6 | K map	
+description	Digital Logic | Boolean Algebra, Minimization, Number System | Weekly Quiz 3	
+description	Digital Logic | Multiplexer | Weekly Quiz 4	
+description	Digital Logic | Combinational Circuits, Number System | Weekly Quiz 5	
+label_important	C Programming Weekly Quizzes	
+description	C Programming | Weekly Quiz 1	
+description	C Programming | Weekly Quiz 2	
+description	C Programming | Weekly Quiz 3	
+description	C Programming | Weekly Quiz 4	
+label_important	DBMS Weekly Quizzes	
+description	DBMS | Relational Model | Weekly Quiz 1	
+description	DBMS | Functional Dependency | Weekly Quiz 2	
+description	DBMS | Normalization, Relational Model | Weekly Quiz 3	
+description	DBMS | Normal Forms | Weekly Quiz 4	
+description	DBMS | Normalization | Weekly Quiz 5	
+description	DBMS | SQL | Weekly Quiz 6	
+description	DBMS | SQL | Weekly Quiz 7	
+description	DBMS | SQL | Weekly Quiz 8	
+description	DBMS | Normalization | Weekly Quiz 9	
+description	DBMS | Relational Algebra | Weekly Quiz 10	
+description	DBMS | Relational Algebra | Weekly Quiz 11	
+label_important	Theory of Computation Weekly Quizzes	
+description	Theory of Computation | Finite Automata | Weekly Quiz 1	
+description	Theory of Computation | Finite Automata and Regular Expression | Weekly Quiz 2	
+description	Theory of Computation | Finite Automata and Regular Expression | Weekly Quiz 3	
+description	Theory of Computation | Context Free Grammar | Weekly Quiz 4	
+description	Theory of Computation | FA, CFL, DCFL | Weekly Quiz 5	
+label_important	Operating System Weekly Quizzes	
+description	Operating System | Process Synchronization | Weekly Quiz 1	
+label_important	Computer Networking Weekly Quizzes	
+description	Computer Networks | Weekly Quiz 1	
+description	Computer Networking | Subnetting and Supernetting | Weekly Quiz 1	
+description	Computer Networking | CRC | Weekly Quiz 3	
+description	Computer Networking | stop and wait , sliding window protocol | Weekly Quiz 4	
+label_important	Aptitude	
+description	Aptitude | Monthly Quiz 1	
+label_important	Fundamental Course Weekly Quizzes	
+description	Fundamental Course | Weekly Quiz 1	
+label_important	Discrete Mathematics Tests	
+description	Discrete Mathematics Topic Wise Test 1 - Mathematical Logic	
+description	Discrete Mathematics Topic Wise Test 2 - Set Theory	
+description	Discrete Mathematics Topic Wise Test 3 - Group Theory	
+description	Discrete Mathematics Topic Wise Test 4 - Combinatorics	
+description	Discrete Mathematics Topic Wise Test 5 - Graph Theory	
+description	Discrete Mathematics Subject Wise Test 1 - Complete Discrete Mathematics	
+description	Discrete Mathematics Subject Wise Test 2 - Complete Discrete Mathematics	
+description	Discrete Mathematics Subject Wise Test 3 - Complete Discrete Mathematics	
+live_tv	Discrete Mathematics - Combinatorics Extra Test - Detailed Video Solutions	
+label_important	Engineering Mathematics Tests	
+description	Engineering Mathematics Topic Wise Test 1 - Linear Algebra	
+description	Extra Test!! Engineering Mathematics Topic Wise Test 2 - Linear Algebra	
+live_tv	Probability Quiz Bayes Theorem Solution	
+live_tv	Complete Probability Test Solution	
+description	Engineering Mathematics Topic Wise Test 2 - Counting	
+description	Engineering Mathematics Topic Wise Test 3 - Bays Theorem, Conditional Probability	
+description	Engineering Mathematics Topic Wise Test 4 - Complete Probability	
+description	Engineering Mathematics Topic Wise Test 5- Complete Calculus	
+description	Engineering Mathematics Subject Wise Test 1 - Complete Engineering Maths	
+description	Engineering Mathematics Subject Wise Test 2 - Complete Engineering Maths	
+description	Engineering Mathematics Subject Wise Test 3 - Complete Engineering Maths	
+description	Discrete Mathematics & Engineering Mathematics DM,EM 65Q Full Length Test 1 - Complete Discrete Maths and Engineering Maths	
+label_important	Digital Logic Test	
+description	Digital Logic Topic Wise Test 1 - Boolean Algebra, Minimization, Number System	
+description	Digital Logic Topic Wise Test 2 - Combinational Circuits	
+description	Digital Logic Topic Wise Test 3 - Sequential Circuits	
+description	Digital Logic Subject Wise Test 1 - Complete Digital Logic	
+description	Digital Logic Subject Wise Test 2 - Complete Digital Logic	
+description	Digital Logic Subject Wise Test 3 - Complete Digital Logic	
+label_important	Database Management Systems Test	
+description	Database Management Systems Topic Wise Test 1 - Normalization	
+description	Database Management Systems Topic Wise Test 2 - ER Model, Integrity Constraints	
+description	Database Management Systems Topic Wise Test 3 - Queries, SQL, TRC, Relational Algebra	
+description	Database Management Systems Topic Wise Test 4 - Indexing, B Tree, B+ Tree	
+description	Database Management Systems Topic Wise Test 5 - Transaction management	
+description	Database Management Systems Subject Wise Test 1 - Computer Database	
+description	Database Management Systems Subject Wise Test 2 - Computer Database	
+description	Database Management Systems Subject Wise Test 3 - Computer Database	
+label_important	C Programming Test	
+description	C Programming Topic Wise Test 1 - Number Representation, Control Statements (if-else, switch-case, loops), Operators	
+description	C Programming Topic Wise Test 2 - Compilation system, Storage class, Function, Recursion, Pointers	
+description	C Programming Topic Wise Test 3 - Pointers, Char array and strings, Structures, Dynamic memory allocation	
+description	C Programming Subject Wise Test 1 - Complete C Programming	
+description	C Programming Subject Wise Test 2 - Complete C Programming	
+description	C Programming Subject Wise Test 3 - Complete C Programming	
+label_important	Theory of Computation Test	
+description	Theory of Computation Topic Wise Test 1 - Finite Automata	
+description	Theory of Computation Topic Wise Test 2 - Regular Expression	
+description	Theory of Computation Topic Wise Test 3- CFG & PDA	
+description	Theory of Computation Topic Wise Test 4 - Closure Properties, language class detection	
+description	Theory of Computation Topic Wise Test 5 - Decidability, Undecidability	
+description	Theory of Computation Subject Wise Test 1 - Complete Theory of Computation	
+description	Theory of Computation Subject Wise Test 2 - Complete Theory of Computation	
+description	Theory of Computation Subject Wise Test 3 - Complete Theory of Computation	
+label_important	Computer Networks Test	
+description	Computer Networks Topic Wise Test 1 - IP addessing (subnetting and supenetting), Data Link layer	
+description	Computer Networks Topic Wise Test 2 - Network Layer	
+description	Computer Networks Topic Wise Test 3- Routing algorithms, Transport layer	
+description	Computer Networks Topic Wise Test 4 - Transport layer, Application Layer	
+description	Computer Networks Subject Wise Test 1 - Complete Computer Networks	
+description	Computer Networks Subject Wise Test 2 - Complete Computer Networks	
+description	Computer Networks Subject Wise Test 3 - Complete Computer Networks	
+description	CN,DBMS,TOC,CD 65Q Full Length Test 2 - Complete Computer Networks, DBMS, Theory of Computation, and Compiler Design	
+label_important	Compiler Design Test	
+description	Compiler Design Topic Wise Test 1 - Lexical, Syntax Analysis, Parsers	
+description	Compiler Design Topic Wise Test 2 - Semantic Analysis, SDT, SDD, Parser	
+description	Compiler Design Topic Wise Test 3 - Intermediate Codes, DAG, SSA, Code Optimisation	
+description	Compiler Design Subject Wise Test 1 - Complete Compiler Design	
+description	Compiler Design Subject Wise Test 2 - Complete Compiler Design	
+description	Compiler Design Subject Wise Test 3 - Complete Compiler Design	
+label_important	Computer Orgranisation Test	
+description	Computer Orgranisation Topic Wise Test 1 - Basics, Addressing Modes, Control Unit	
+description	Computer Orgranisation Topic Wise Test 2 - Pipelining	
+description	Computer Orgranisation Topic Wise Test 3 - Cache Memory	
+description	Computer Orgranisation Topic Wise Test 4 - I/O Interfacing, Magnetic Disk	
+description	Computer Orgranisation Subject Wise Test 1 - Complete Computer Orgranisation	
+description	Computer Orgranisation Subject Wise Test 2 - Complete Computer Orgranisation	
+description	Computer Orgranisation Subject Wise Test 3 - Complete Computer Orgranisation	
+label_important	Operating Systems Test	
+description	Operating Systems Topic Wise Test 1 - Scheduling	
+description	Operating Systems Topic Wise Test 2 - Synchronisation, Deadlock	
+description	Operating Systems Topic Wise Test 3 - Memory Management	
+description	Operating Systems Topic Wise Test 4 - File system, Fork, Systems calls	
+description	Operating Systems Subject Wise Test 1 - Complete Operating Systems	
+description	Operating Systems Subject Wise Test 2 - Complete Operating Systems	
+description	Operating Systems Subject Wise Test 3 - Complete Operating Systems	
+description	OS,COA,Digital Logics 65Q Full Length Test 3 - Complete Operating Systems, Computer Organisation & Architecture, and Digital Logic	
+label_important	Data Structure Test	
+description	Data Structures Topic Wise Test 1 - Linked List	
+description	Data Structures Topic Wise Test 2 - Asymptotic Notations and Loops time complexity	
+description	Data Structures Topic Wise Test 3 - Stack and Queue	
+description	Data Structures Topic Wise Test 4 - Combinatorics in Trees (Binary tree, Binary search tree, AVL tree, Heap)	
+description	Data Structures Topic Wise Test 5 - Hashing with Probability	
+description	Data Structures Subject Wise Test 1 - Complete Data Structures	
+description	Data Structures Subject Wise Test 2 - Complete Data Structures	
+description	Data Structures Subject Wise Test 3 - Complete Data Structures	
+label_important	Algorithms Test	
+description	Algorithms Topic Wise Test 1 - Divide and Conquer (few probabilistic questions in algorithm)	
+description	Algorithms Topic Wise Test 2 - Recurrence relation (Master theorem, iteration method, change of variable, tree method etc)	
+description	Algorithms Topic Wise Test 3 - Greedy Algorithms	
+description	Algorithms Topic Wise Test 4 - Dynamic Programming	
+description	Algorithms Subject Wise Test 1 - Complete Algorithms	
+description	Algorithms Subject Wise Test 2 - Complete Algorithms	
+description	Algorithms Subject Wise Test 3 - Complete Algorithms	
+description	C,DS,Algo 65Q Full Length Test 4 - Complete C Programming, Data Structures, and Algorithm	
+label_important	Full length Tests	
+description	GO Classes CS 2026 Mock Test 1	
+description	GO Classes CS 2026 Mock Test 2	
+description	GO Classes CS 2026 Mock Test 3	
+description	GO Classes CS 2026 Mock Test 4	
+description	GO Classes CS 2026 Mock Test 5	
+description	GO Classes CS 2026 Mock Test 6	
+description	GO Classes CS 2026 Mock Test 7	
+description	GO Classes CS 2026 Mock Test 8	
+description	GO Classes CS 2026 Mock Test 9	
+description	GO Classes CS 2026 Mock Test 10	
+description	GO Classes CS 2026 Mock Test 11	
+description	GO Classes CS 2026 Mock Test 12	
+description	GO Classes CS 2026 Mock Test 13	
+description	GO Classes CS 2026 Mock Test 14	
+description	GO Classes CS 2026 Mock Test 15	
+description	GO Classes CS 2026 Mock Test 16	
+description	GO Classes CS 2026 Mock Test 17	
+description	GO Classes CS 2026 Mock Test 18	
+description	GO Classes CS 2026 Mock Test 19	
+description	GO Classes CS 2026 Mock Test 20
